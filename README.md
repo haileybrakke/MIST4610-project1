@@ -55,6 +55,11 @@ This database supports queries looking to answer questions involving team struct
 
 # Queries
 
+Query 9: Which players score above average points accross all documented seasons?
+Justification: Query 9 allows the Operations Manager to see what players have been consistently scoring in the top 50% across all seasons. This reveals which players are top performers when comparing them against all teams.
+
+
+
 # Database Information:
 
 Name: al_Group_21482_G9
