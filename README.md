@@ -91,6 +91,9 @@ Justification: This query allows our client to see which teams excel on their ho
 
 
 Query 5: Who is the highest scoring player in each game?
+<img width="1106" height="382" alt="Screenshot 2026-03-31 180527" src="https://github.com/user-attachments/assets/4ecc9900-d648-4ab7-bf44-7afd4dfcb267" />
+
+Justification: Query 5 allows teams to see who preformed the best in a given game. This can be used by managers to identify the leauge's top performing players, which could be used for all-star selection and MVP voting.
 
 
 Query 7: Compare highest scoring teams between divisions
