@@ -13,6 +13,7 @@ Will Federer (put github link)
 Summer Sayedzada (put github link)
 
 Tony Jimenez (https://github.com/tonyj010/MIST4610)
+
 Ja’Khiyan Dowdy (https://github.com/jakhiyan0219-hub/Project-1.git)
 
 # Scenario Description
@@ -31,6 +32,11 @@ This database supports queries looking to answer questions involving team struct
 
 <img width="973" height="695" alt="Screenshot 2026-03-30 at 8 03 58 PM" src="https://github.com/user-attachments/assets/95b9ce65-d330-47c9-9a41-b57d9f405c93" />
 
+# Data Dictionary
+
+# Query Matrix 
+
+# Queries
 
 # Database Information:
 
