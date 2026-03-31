@@ -100,11 +100,20 @@ Justification: Query 8 allows our client to be able to compare two players stati
 Query 9: Which players score above average points accross all documented seasons?
 Justification: Query 9 allows the Operations Manager to see what players have been consistently scoring in the top 50% across all seasons. This reveals which players are top performers when comparing them against all teams.
 
+<img width="739" height="526" alt="Screenshot 2026-03-31 at 4 26 33 PM" src="https://github.com/user-attachments/assets/d8eb6b55-8a9a-48b9-94f8-a51568565bf9" />
+
+Query 10: Which players only played between 1-5 games in the most recent season?
+Justification: Query 10 allows the Operations Manager to see what players have played between 1-5 games in the past season. This reveals what players are contributing the least overall in the league, which is valuable information when considering what players teams wish to keep on their roster in the future.
+
+<img width="432" height="769" alt="Screenshot 2026-03-31 at 4 31 20 PM" src="https://github.com/user-attachments/assets/46dd14db-a585-4b75-912d-eaf84535e8ec" />
+
 
 
 # Database Information:
 
 Name: al_Group_21482_G9
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
 
 # Database Code
 
