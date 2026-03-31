@@ -54,8 +54,9 @@ This database supports queries looking to answer questions involving team struct
 # Query Matrix 
 
 # Queries
-Query 1: Lists all of the teams and the first and last name of the coach assigned to each team.
+Query 1: Which coach is assigned to which team?
 <img width="983" height="459" alt="Screenshot 2026-03-31 at 11 12 25 AM" src="https://github.com/user-attachments/assets/ebb3017f-ea44-4194-8c6c-7b33c8d4dd35" />
+Query 1 joins the TeamCoachAssignment, Team, and Coach tables to show which coach is assigned to each team. It focuses only on names to provide a simple and easy-to-read list of coach–team pairings.
 
 
 Query 9: Which players score above average points accross all documented seasons?
