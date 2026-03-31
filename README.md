@@ -51,7 +51,7 @@ This database supports queries looking to answer questions involving team struct
 
 # Database Information:
 
-Name: al_hb11648
+Name: al_Group_21482_G9
 
 # Database Code
 
