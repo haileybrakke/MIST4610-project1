@@ -40,12 +40,9 @@ This database supports queries looking to answer questions involving team struct
 
 # Database Information:
 
-Name: nba_eastern_conference
+Name: al_hb11648
 
 # Database Code
-
-CREATE DATABASE nba_eastern_conference;
-USE nba_eastern_conference;
 
 #Table Creation
 
