@@ -5,6 +5,7 @@
 Name: Group 9
 
 Members:
+
 Hailey Brakke (https://github.com/haileybrakke/MIST4610-project1) 
 
 Will Federer (put github link)
