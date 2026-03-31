@@ -36,6 +36,7 @@ This database supports queries looking to answer questions involving team struct
 
 Name: nba_eastern_conference
 
+# Database Code
 
 CREATE DATABASE nba_eastern_conference;
 USE nba_eastern_conference;
