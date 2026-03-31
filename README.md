@@ -69,13 +69,15 @@ Query 3: Retrieve all games played on a certain date
 
 Justification: With this query if our client needs information about a game played on a specific date we can easily find that. This query shows the home team, away team, score, and date of the game played.
 
-<img width="551" height="423" alt="DATEQUERY" src="https://github.com/user-attachments/assets/6da2fab7-93b9-4026-bd0e-1c3b066d316a" />
+
+
+
+<img width="566" height="386" alt="FXED" src="https://github.com/user-attachments/assets/6dd67c89-7eaf-4a9f-b0a6-8d580f030d1e" />
 
 
 
 
-<img width="650" height="98" alt="DATETABLE" src="https://github.com/user-attachments/assets/ea888230-4f62-4201-a9aa-bc2269ad9cc2" />
-
+<img width="608" height="90" alt="FIXED2" src="https://github.com/user-attachments/assets/8ccd2e9b-40a9-4c92-bcfa-6474a636bd73" />
 
 
 Query 8: Compare two different player's stats for a season 
