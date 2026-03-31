@@ -83,16 +83,11 @@ Query 4: Based off points show all home team wins per season
 <img width="1330" height="159" alt="image" src="https://github.com/user-attachments/assets/00235e6b-f153-4d38-aac0-1f0e203cb455" />
 <img width="786" height="603" alt="image" src="https://github.com/user-attachments/assets/6b5d33ec-155f-4a09-9afa-65b042dc03e2" />
 <img width="768" height="151" alt="image" src="https://github.com/user-attachments/assets/ac976427-f60f-4cb9-ab34-097e70fe6311" />
+
+
 Justification: This query allows our client to see which teams excel on their home court and lets the client make comparisons and judgements concerning team performance.
 
 
-
-<img width="566" height="386" alt="FXED" src="https://github.com/user-attachments/assets/6dd67c89-7eaf-4a9f-b0a6-8d580f030d1e" />
-
-
-
-
-<img width="608" height="90" alt="FIXED2" src="https://github.com/user-attachments/assets/8ccd2e9b-40a9-4c92-bcfa-6474a636bd73" />
 
 
 Query 5: Who is the highest scoring player in each game?
