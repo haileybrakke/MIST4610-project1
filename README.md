@@ -29,8 +29,8 @@ Game data includes the date, location (arena), season, type (regular season or p
 Player performance is recorded in the PlayerGameStats table, which connects players to games and stores basic statistics such as points. Coaching history is tracked using the TeamCoachAssignment table, which links coaches to teams over time.
 
 This database supports queries looking to answer questions involving team structure, player movement, game outcomes, and individual performance across seasons. However, it is not capable of answering questions related to detailed play-by-play data, advanced statistics, financial information, or teams beyond the Eastern Conference.
+<img width="969" height="703" alt="Screenshot 2026-03-31 at 5 11 38 PM" src="https://github.com/user-attachments/assets/8085349e-c4af-4855-9f63-441fe9cba81f" />
 
-<img width="973" height="695" alt="Screenshot 2026-03-30 at 8 03 58 PM" src="https://github.com/user-attachments/assets/95b9ce65-d330-47c9-9a41-b57d9f405c93" />
 
 # Data Dictionary
 <img width="688" height="312" alt="Screenshot 2026-03-31 at 10 05 44 AM" src="https://github.com/user-attachments/assets/20c4005c-06a2-43de-a6a2-0857462071ed" />
