@@ -1,5 +1,32 @@
 # MIST4610-project1
 
+# Group
+
+Name: Group 9
+
+Members:
+Hailey Brakke (https://github.com/haileybrakke/MIST4610-project1) 
+Will Federer (put github link)
+Summer Sayedzada (put github link)
+Tony Jimenez (https://github.com/tonyj010/MIST4610)
+Ja’Khiyan Dowdy (https://github.com/jakhiyan0219-hub/Project-1.git)
+
+# Scenario Description
+
+Our client is the Operations Manager for the NBA Eastern Conference. The Eastern Conference league office supports reporting and coordination across all 15 Eastern Conference teams. The office needs to track team participation, player rosters, game schedules and results, coaching assignments, and player performance throughout the season. Currently, this information is stored across multiple spreadsheets and public sources, making it difficult to monitor roster changes over time, analyze team and player performance, and generate reliable operational reports. This project creates a centralized relational database to manage publicly available basketball operations data and improve reporting efficiency. 
+
+# Data Model
+
+Model Explanation: The model represents the NBA league structure by linking conferences, divisions, and teams together. Each team belongs to a division, and each division belongs to a conference. The model also tracks player participation through the Roster table, which connects players to teams and seasons, allowing players to move between teams over time while maintaining historical records.
+
+Game data includes the date, location (arena), season, type (regular season or postseason), and competing teams (home and away). Each game is linked to one arena, one season, and one game type, while teams can participate in many games. 
+
+Player performance is recorded in the PlayerGameStats table, which connects players to games and stores basic statistics such as points. Coaching history is tracked using the TeamCoachAssignment table, which links coaches to teams over time.
+
+This database supports queries looking to answer questions involving team structure, player movement, game outcomes, and individual performance across seasons. However, it is not capable of answering questions related to detailed play-by-play data, advanced statistics, financial information, or teams beyond the Eastern Conference.
+
+
+
 # Database Information:
 
 Name: nba_eastern_conference
