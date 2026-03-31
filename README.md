@@ -6,8 +6,11 @@ Name: Group 9
 
 Members:
 Hailey Brakke (https://github.com/haileybrakke/MIST4610-project1) 
+
 Will Federer (put github link)
+
 Summer Sayedzada (put github link)
+
 Tony Jimenez (https://github.com/tonyj010/MIST4610)
 Ja’Khiyan Dowdy (https://github.com/jakhiyan0219-hub/Project-1.git)
 
