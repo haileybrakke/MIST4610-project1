@@ -58,6 +58,11 @@ Query 1: Which coach is assigned to which team?
 <img width="983" height="459" alt="Screenshot 2026-03-31 at 11 12 25 AM" src="https://github.com/user-attachments/assets/ebb3017f-ea44-4194-8c6c-7b33c8d4dd35" />
 Query 1 joins the TeamCoachAssignment, Team, and Coach tables to show which coach is assigned to each team. It focuses only on names to provide a simple and easy-to-read list of coach–team pairings.
 
+Query 2: How many players are on each team for each season?
+<img width="469" height="710" alt="Screenshot 2026-03-31 at 12 01 12 PM" src="https://github.com/user-attachments/assets/92536328-de82-4fcc-b82d-325233471151" />
+Query 2 joins the Team and Season tables to show the amount of players that are on each team for each season. It reveals how many players are active and participated in the season games.
+
+
 
 Query 9: Which players score above average points accross all documented seasons?
 Justification: Query 9 allows the Operations Manager to see what players have been consistently scoring in the top 50% across all seasons. This reveals which players are top performers when comparing them against all teams.
