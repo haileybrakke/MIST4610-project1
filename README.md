@@ -61,6 +61,7 @@ Query 1 joins the TeamCoachAssignment, Team, and Coach tables to show which coac
 Query 2: How many players are on each team for each season?
 
 <img width="469" height="710" alt="Screenshot 2026-03-31 at 12 01 12 PM" src="https://github.com/user-attachments/assets/92536328-de82-4fcc-b82d-325233471151" />
+
 Query 2 joins the Team and Season tables to show the amount of players that are on each team for each season. It reveals how many players are active and participated in the season games.
 
 
