@@ -10,7 +10,7 @@ Hailey Brakke (https://github.com/haileybrakke/MIST4610-project1)
 
 Will Federer (https://github.com/willfederer10/MIST4610-project1))
 
-Summer Sayedzada (put github link)
+Summer Sayedzada (https://github.com/ss83771/project1)
 
 Tony Jimenez (https://github.com/tonyj010/MIST4610)
 
