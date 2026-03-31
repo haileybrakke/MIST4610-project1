@@ -69,6 +69,11 @@ Query 3: Retrieve all games played on a certain date
 
 Justification: With this query if our client needs information about a game played on a specific date we can easily find that. This query shows the home team, away team, score, and date of the game played.
 
+Query 4: Based off points show all home team wins per season
+<img width="1330" height="159" alt="image" src="https://github.com/user-attachments/assets/00235e6b-f153-4d38-aac0-1f0e203cb455" />
+<img width="786" height="603" alt="image" src="https://github.com/user-attachments/assets/6b5d33ec-155f-4a09-9afa-65b042dc03e2" />
+<img width="768" height="151" alt="image" src="https://github.com/user-attachments/assets/ac976427-f60f-4cb9-ab34-097e70fe6311" />
+Justification: This query allows our client to see which teams excel on their home court and make comparisons and judgements concerning team performance.
 
 
 
