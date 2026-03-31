@@ -1,6 +1,6 @@
 # MIST4610-project1
 
-Database Information:
+# Database Information:
 
 Name: nba_eastern_conference
 
