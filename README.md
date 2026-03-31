@@ -70,6 +70,13 @@ Query 2 joins the Team and Season tables to show the amount of players that are 
 Query 3: Retrieve all games played on a certain date
 
 
+<img width="566" height="386" alt="FXED" src="https://github.com/user-attachments/assets/6dd67c89-7eaf-4a9f-b0a6-8d580f030d1e" />
+
+
+
+
+<img width="608" height="90" alt="FIXED2" src="https://github.com/user-attachments/assets/8ccd2e9b-40a9-4c92-bcfa-6474a636bd73" />
+
 Justification: With this query if our client needs information about a game played on a specific date we can easily find that. This query shows the home team, away team, score, and date of the game played.
 
 Query 4: Based off points show all home team wins per season
