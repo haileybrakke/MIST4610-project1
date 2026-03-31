@@ -40,6 +40,12 @@ This database supports queries looking to answer questions involving team struct
 <img width="658" height="436" alt="Screenshot 2026-03-31 at 10 15 48 AM" src="https://github.com/user-attachments/assets/e422d373-6000-4520-b1f6-7a9185e6aa87" />
 <img width="648" height="268" alt="Screenshot 2026-03-31 at 10 17 05 AM" src="https://github.com/user-attachments/assets/80204598-61bf-4714-af20-8ffe904341dc" />
 <img width="587" height="640" alt="Screenshot 2026-03-31 at 10 18 25 AM" src="https://github.com/user-attachments/assets/be20fb67-37d3-4364-b03f-da07195e0d09" />
+<img width="618" height="377" alt="Screenshot 2026-03-31 at 10 44 05 AM" src="https://github.com/user-attachments/assets/e1881970-7086-4b9f-b372-53413e29c226" />
+<img width="594" height="292" alt="Screenshot 2026-03-31 at 10 44 35 AM" src="https://github.com/user-attachments/assets/de70b645-83c7-4b77-9cdc-b91eaa8e34f4" />
+<img width="602" height="568" alt="Screenshot 2026-03-31 at 10 46 50 AM" src="https://github.com/user-attachments/assets/f6fdbe34-10dd-49e8-afd4-6fcc1b645fee" />
+<img width="596" height="320" alt="Screenshot 2026-03-31 at 10 47 30 AM" src="https://github.com/user-attachments/assets/8d9a8c83-46a4-43da-a553-7f1b66cca067" />
+<img width="628" height="644" alt="Screenshot 2026-03-31 at 10 48 56 AM" src="https://github.com/user-attachments/assets/f6514f91-a900-4beb-8189-3095e9e09acb" />
+<img width="637" height="332" alt="Screenshot 2026-03-31 at 10 49 16 AM" src="https://github.com/user-attachments/assets/ee330fbe-fc41-4ff8-b43a-9b34c90ea64c" />
 
 
 
