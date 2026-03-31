@@ -46,7 +46,6 @@ This database supports queries looking to answer questions involving team struct
 <img width="596" height="320" alt="Screenshot 2026-03-31 at 10 47 30 AM" src="https://github.com/user-attachments/assets/8d9a8c83-46a4-43da-a553-7f1b66cca067" />
 <img width="628" height="644" alt="Screenshot 2026-03-31 at 10 48 56 AM" src="https://github.com/user-attachments/assets/f6514f91-a900-4beb-8189-3095e9e09acb" />
 <img width="637" height="332" alt="Screenshot 2026-03-31 at 10 49 16 AM" src="https://github.com/user-attachments/assets/ee330fbe-fc41-4ff8-b43a-9b34c90ea64c" />
-<img width="660" height="543" alt="Screenshot 2026-03-31 at 5 02 45 PM" src="https://github.com/user-attachments/assets/d12571bb-6aea-486e-a2ab-6ccafcc41b0a" />
 <img width="656" height="295" alt="Screenshot 2026-03-31 at 5 08 04 PM" src="https://github.com/user-attachments/assets/e3b0a50b-eb45-4b9c-a106-239f67f857e6" />
 
 
