@@ -44,8 +44,6 @@ Name: al_hb11648
 
 # Database Code
 
-#Table Creation
-
 CREATE TABLE Conference (
     conference_id INT PRIMARY KEY,
     conference_name VARCHAR(45) NOT NULL
