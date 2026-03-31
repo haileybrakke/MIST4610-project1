@@ -65,7 +65,11 @@ Query 2: How many players are on each team for each season?
 Query 2 joins the Team and Season tables to show the amount of players that are on each team for each season. It reveals how many players are active and participated in the season games.
 
 Query 8: Compare two different player's stats for a season 
+
+
 <img width="432" height="338" alt="COMPARINGTWOQUERY" src="https://github.com/user-attachments/assets/ea9a33a4-14ca-4519-a365-fa6c1932b052" />
+
+
 <img width="495" height="72" alt="COMPARINGTWO" src="https://github.com/user-attachments/assets/af0aa8b5-40e1-41cd-aa2b-1749e42e9738" />
 
 
