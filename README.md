@@ -1,8 +1,9 @@
+# MIST4610-project1
+
 Database Information:
 
 Name: nba_eastern_conference
 
-# MIST4610-project1
 
 CREATE DATABASE nba_eastern_conference;
 USE nba_eastern_conference;
