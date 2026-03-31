@@ -88,6 +88,11 @@ Justification: This query allows our client to see which teams excel on their ho
 <img width="608" height="90" alt="FIXED2" src="https://github.com/user-attachments/assets/8ccd2e9b-40a9-4c92-bcfa-6474a636bd73" />
 
 
+Query 5: Who is the highest scoring player in each game?
+
+
+
+
 Query 8: Compare two different player's stats for a season 
 
 
