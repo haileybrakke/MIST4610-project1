@@ -26,6 +26,8 @@ Model Explanation: The model represents the NBA league structure by linking conf
 
 Game data includes the date, location (arena), season, type (regular season or postseason), and competing teams (home and away). Each game is linked to one arena, one season, and one game type, while teams can participate in many games. 
 
+Players are stored in the Player table, which contains demographic and physical attributes. Because a player can appear on multiple rosters over time (across seasons or teams), a many-to-many relationship exists between Player and Roster. This relationship is resolved through the Player_has_Roster junction table.
+
 Player performance is recorded in the PlayerGameStats table, which connects players to games and stores basic statistics such as points. Coaching history is tracked using the TeamCoachAssignment table, which links coaches to teams over time.
 
 This database supports queries looking to answer questions involving team structure, player movement, game outcomes, and individual performance across seasons. However, it is not capable of answering questions related to detailed play-by-play data, advanced statistics, financial information, or teams beyond the Eastern Conference.
