@@ -25,6 +25,7 @@ Player performance is recorded in the PlayerGameStats table, which connects play
 
 This database supports queries looking to answer questions involving team structure, player movement, game outcomes, and individual performance across seasons. However, it is not capable of answering questions related to detailed play-by-play data, advanced statistics, financial information, or teams beyond the Eastern Conference.
 
+<img width="973" height="695" alt="Screenshot 2026-03-30 at 8 03 58 PM" src="https://github.com/user-attachments/assets/95b9ce65-d330-47c9-9a41-b57d9f405c93" />
 
 
 # Database Information:
