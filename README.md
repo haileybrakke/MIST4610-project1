@@ -93,10 +93,8 @@ Query 5: Who is the highest scoring player in each game?
 
 Query 7: Compare highest scoring teams between divisions
 <img width="1556" height="251" alt="image" src="https://github.com/user-attachments/assets/c617c844-28f5-408a-b066-16c0e32653b8" />
-<img width="1556" height="251" alt="image" src="https://github.com/user-attachments/assets/c617c844-28f5-408a-b066-16c0e32653b8" />
 <img width="459" height="158" alt="image" src="https://github.com/user-attachments/assets/d62ac974-f59a-40d6-bd32-a7c8bddf570d" />
-<img width="459" height="158" alt="image" src="https://github.com/user-attachments/assets/d62ac974-f59a-40d6-bd32-a7c8bddf570d" />
-Justification: Query 7 lets the client examine which team among all divisions is doing the best based off highest scored points. If the client was interested in investigating which teams among the divisions are doing best this could be a useful tool.
+Justification: Query 7 lets the client examine which team among all divisions is doing the best based off highest scored points. If the client was interested in analyzing team performance this could be useful information.
 
 Query 8: Compare two different player's stats for a season 
 
