@@ -34,6 +34,10 @@ This database supports queries looking to answer questions involving team struct
 
 # Data Dictionary
 <img width="688" height="312" alt="Screenshot 2026-03-31 at 10 05 44 AM" src="https://github.com/user-attachments/assets/20c4005c-06a2-43de-a6a2-0857462071ed" />
+<img width="665" height="461" alt="Screenshot 2026-03-31 at 10 06 34 AM" src="https://github.com/user-attachments/assets/b8fc697e-ed83-4f9b-84b9-7838e69db537" />
+<img width="673" height="521" alt="Screenshot 2026-03-31 at 10 07 15 AM" src="https://github.com/user-attachments/assets/19f663c5-8468-460f-8151-50340317e04e" />
+
+
 
 
 
