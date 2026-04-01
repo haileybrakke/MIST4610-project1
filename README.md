@@ -58,16 +58,17 @@ This database supports queries looking to answer questions involving team struct
 
 # Queries
 Query 1: Which coach is assigned to which team?
+Justification: Query 1 joins the TeamCoachAssignment, Team, and Coach tables to show which coach is assigned to each team. It focuses only on names to provide a simple and easy-to-read list of coach–team pairings.
 <img width="983" height="459" alt="Screenshot 2026-03-31 at 11 12 25 AM" src="https://github.com/user-attachments/assets/ebb3017f-ea44-4194-8c6c-7b33c8d4dd35" />
-Query 1 joins the TeamCoachAssignment, Team, and Coach tables to show which coach is assigned to each team. It focuses only on names to provide a simple and easy-to-read list of coach–team pairings.
 
 Query 2: How many players are on each team for each season?
+Justification: Query 2 joins the Team and Season tables to show the amount of players that are on each team for each season. It reveals how many players are active and participated in the season games.
 
 <img width="469" height="710" alt="Screenshot 2026-03-31 at 12 01 12 PM" src="https://github.com/user-attachments/assets/92536328-de82-4fcc-b82d-325233471151" />
 
-Query 2 joins the Team and Season tables to show the amount of players that are on each team for each season. It reveals how many players are active and participated in the season games.
 
 Query 3: Retrieve all games played on a certain date
+Justification: With this query if our client needs information about a game played on a specific date we can easily find that. This query shows the home team, away team, score, and date of the game played.
 
 
 <img width="566" height="386" alt="FXED" src="https://github.com/user-attachments/assets/6dd67c89-7eaf-4a9f-b0a6-8d580f030d1e" />
@@ -77,33 +78,31 @@ Query 3: Retrieve all games played on a certain date
 
 <img width="608" height="90" alt="FIXED2" src="https://github.com/user-attachments/assets/8ccd2e9b-40a9-4c92-bcfa-6474a636bd73" />
 
-Justification: With this query if our client needs information about a game played on a specific date we can easily find that. This query shows the home team, away team, score, and date of the game played.
 
-Query 4: Based off points show all home team wins per season
+
+Query 4: Based off points scored, show all home team wins per season per team.
+Justification: This query allows our client to see which teams excel on their home court and lets the client make comparisons and judgements concerning team performance.
 <img width="1330" height="159" alt="image" src="https://github.com/user-attachments/assets/00235e6b-f153-4d38-aac0-1f0e203cb455" />
 <img width="786" height="603" alt="image" src="https://github.com/user-attachments/assets/6b5d33ec-155f-4a09-9afa-65b042dc03e2" />
 <img width="768" height="151" alt="image" src="https://github.com/user-attachments/assets/ac976427-f60f-4cb9-ab34-097e70fe6311" />
 
 
-Justification: This query allows our client to see which teams excel on their home court and lets the client make comparisons and judgements concerning team performance.
-
-
 
 
 Query 5: Who is the highest scoring player in each game?
+Justification: Query 5 allows teams to see who preformed the best in a given game. This can be used by managers to identify the leauge's top performing players, which could be used for all-star selection and MVP voting.
+
 <img width="1106" height="382" alt="Screenshot 2026-03-31 180527" src="https://github.com/user-attachments/assets/4ecc9900-d648-4ab7-bf44-7afd4dfcb267" />
 
-Justification: Query 5 allows teams to see who preformed the best in a given game. This can be used by managers to identify the leauge's top performing players, which could be used for all-star selection and MVP voting.
 
 
 Query 7: Compare highest scoring teams between divisions
+Justification: Query 7 lets the client examine which team among all divisions is doing the best based off highest scored points. If the client was interested in analyzing team performance this could be useful information.
 <img width="1556" height="251" alt="image" src="https://github.com/user-attachments/assets/c617c844-28f5-408a-b066-16c0e32653b8" />
 <img width="459" height="158" alt="image" src="https://github.com/user-attachments/assets/d62ac974-f59a-40d6-bd32-a7c8bddf570d" />
-Justification: Query 7 lets the client examine which team among all divisions is doing the best based off highest scored points. If the client was interested in analyzing team performance this could be useful information.
+
 
 Query 8: Compare two different player's stats for a season 
-
-
 Justification: Query 8 allows our client to be able to compare two players statisitics in their games played throughout the seasons we have in our database. If our clients objective is to find data about players before a matchup and how they compare between two players they are able to do that.
 
 
