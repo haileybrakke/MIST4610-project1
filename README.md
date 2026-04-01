@@ -94,6 +94,11 @@ Justification: Query 5 allows teams to see who preformed the best in a given gam
 
 <img width="1106" height="382" alt="Screenshot 2026-03-31 180527" src="https://github.com/user-attachments/assets/4ecc9900-d648-4ab7-bf44-7afd4dfcb267" />
 
+Query 6: List players who played on multiple rosters in the same season.
+Justification: Query 6 shows players who played on two or more different rosters in the same season. Managers can use this data to track trades between teams and free agency pickups. 
+
+<img width="1026" height="298" alt="Screenshot 2026-03-31 215528" src="https://github.com/user-attachments/assets/2a6e3319-14fb-4de5-b661-b57d8a2c2e7c" />
+
 
 
 Query 7: Compare highest scoring teams between divisions
