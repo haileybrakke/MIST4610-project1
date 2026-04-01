@@ -55,6 +55,7 @@ This database supports queries looking to answer questions involving team struct
 
 
 # Query Matrix 
+<img width="627" height="401" alt="Screenshot 2026-03-31 at 10 04 02 PM" src="https://github.com/user-attachments/assets/111dae27-f433-4ef2-972e-871a316d0c44" />
 
 # Queries
 Query 1: Which coach is assigned to which team?
